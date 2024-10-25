@@ -1,0 +1,12 @@
+input {
+    width: 50%;
+}
+.s-button {
+    min-width: 80px;
+    margin: 5px;
+}
+.s-row {
+  margin: 10px 5px;
+}
+
+
